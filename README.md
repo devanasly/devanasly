@@ -141,11 +141,15 @@ An AI-powered platform in development for summarizing and explaining scientific 
 <div align="center">
 
 <a href="https://github.com/devanasly">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=devanasly&theme=radical" alt="Anas Alkhoddar's GitHub statistics">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devanasly&theme=nord_bright&name=Anas%20Alkhoddar" alt="Anas Alkhoddar's GitHub profile details">
 </a>
 
 <a href="https://github.com/devanasly">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devanasly&theme=radical" alt="Anas Alkhoddar's top languages">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=devanasly&theme=nord_bright" alt="Anas Alkhoddar's GitHub statistics">
+</a>
+
+<a href="https://github.com/devanasly">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=devanasly&theme=nord_bright&utcOffset=2" alt="Anas Alkhoddar's productive coding time">
 </a>
 
 </div>
