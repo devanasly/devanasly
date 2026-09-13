@@ -34,6 +34,7 @@ Beyond mobile development, I build responsive web interfaces and backend service
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827)
@@ -132,6 +133,24 @@ An AI-powered platform in development for summarizing and explaining scientific 
 - VB.NET & SQL Systems Programming Certificate — Excellent grade
 - Microsoft AI for Daily Tasks
 - Microsoft Introduction to AI Concepts
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+
+<a href="https://github.com/devanasly">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=devanasly&show_icons=true&theme=radical&hide_border=true" alt="Anas Alkhoddar's GitHub statistics">
+</a>
+
+<a href="https://github.com/devanasly">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devanasly&layout=compact&theme=radical&hide_border=true" alt="Anas Alkhoddar's most used languages">
+</a>
+
+</div>
+
+<sub>Statistics are generated from public GitHub repositories and activity.</sub>
 
 ---
 
