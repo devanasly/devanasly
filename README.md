@@ -141,16 +141,18 @@ An AI-powered platform in development for summarizing and explaining scientific 
 <div align="center">
 
 <a href="https://github.com/devanasly">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=devanasly&show_icons=true&theme=radical&hide_border=true" alt="Anas Alkhoddar's GitHub statistics">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=devanasly&theme=radical" alt="Anas Alkhoddar's GitHub statistics">
 </a>
 
 <a href="https://github.com/devanasly">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devanasly&layout=compact&theme=radical&hide_border=true" alt="Anas Alkhoddar's most used languages">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devanasly&theme=radical" alt="Anas Alkhoddar's top languages">
 </a>
 
 </div>
 
 <sub>Statistics are generated from public GitHub repositories and activity.</sub>
+
+---
 
 ---
 
