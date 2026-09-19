@@ -141,22 +141,32 @@ An AI-powered platform in development for summarizing and explaining scientific 
 <div align="center">
 
 <a href="https://github.com/devanasly">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devanasly&theme=nord_bright&name=Anas%20Alkhoddar" alt="Anas Alkhoddar's GitHub profile details">
+  <img width="100%" src="profile-summary-card-output/nord_bright/0-profile-details.svg" alt="Anas Alkhoddar's GitHub profile details">
+</a>
+
+<br>
+
+<a href="https://github.com/devanasly">
+  <img width="49%" src="profile-summary-card-output/nord_bright/3-stats.svg" alt="Anas Alkhoddar's GitHub statistics">
 </a>
 
 <a href="https://github.com/devanasly">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=devanasly&theme=nord_bright" alt="Anas Alkhoddar's GitHub statistics">
+  <img width="49%" src="profile-summary-card-output/nord_bright/4-productive-time.svg" alt="Anas Alkhoddar's productive coding time">
+</a>
+
+<br>
+
+<a href="https://github.com/devanasly">
+  <img width="49%" src="profile-summary-card-output/nord_bright/1-repos-per-language.svg" alt="Top languages by repository">
 </a>
 
 <a href="https://github.com/devanasly">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=devanasly&theme=nord_bright&utcOffset=2" alt="Anas Alkhoddar's productive coding time">
+  <img width="49%" src="profile-summary-card-output/nord_bright/2-most-commit-language.svg" alt="Top languages by commits">
 </a>
 
 </div>
 
-<sub>Statistics are generated from public GitHub repositories and activity.</sub>
-
----
+<sub>Statistics are automatically generated from GitHub activity and refreshed daily.</sub>
 
 ---
 
