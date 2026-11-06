@@ -111,12 +111,11 @@ An interactive educational simulation that explains OSI layers and packet transf
 
 ### Waraqa — Scientific Paper Analysis Platform
 
-An AI-powered platform in development for summarizing and explaining scientific papers, extracting references, generating discussion questions, comparing research, and suggesting related studies.
+An Arabic-first AI-powered platform in development for analyzing and understanding scientific papers. It provides automated Arabic summarization, simplified explanations, reference extraction, and interactive document-grounded Q&A using Retrieval-Augmented Generation (RAG) with source citations.
 
-`Flutter` `FastAPI` `Firebase` `AI` `RAG`
+`Flutter` `FastAPI` `Firebase` `Python` `AI` `RAG`
 
 > More projects and live demos are available on my [portfolio](https://devanas.ly/#projects).
-
 ---
 
 ## Education & Training
@@ -124,15 +123,25 @@ An AI-powered platform in development for summarizing and explaining scientific 
 - **Bachelor of Computer Science, Programming** — Alrefak University, 2023–2026
 - **Web Development Diploma** — Front-end and web development foundations, 2024
 - **Desktop Systems Programming** — Database-driven desktop application training, 2025
+- **Samsung Innovation Campus (SIC) 2026** — Artificial Intelligence Program
+- **BHN Academy Germany Scholarship 2026** — Fully Funded Online Learning Program (Ongoing)
 
 ---
 
 ## Certificates
 
-- SQL Server Certificate — Ministry of Labor and Rehabilitation
-- VB.NET & SQL Systems Programming Certificate — Excellent grade
-- Microsoft AI for Daily Tasks
-- Microsoft Introduction to AI Concepts
+### Artificial Intelligence & Machine Learning
+
+- **Understanding Machine Learning** — DataCamp | October 2026
+- **Understanding Artificial Intelligence** — DataCamp | October 2026
+- **Samsung Innovation Campus 2026** — Artificial Intelligence Program
+- **Microsoft AI for Daily Tasks** — Microsoft
+- **Microsoft Introduction to AI Concepts** — Microsoft
+
+### Software Development & Databases
+
+- **SQL Server Certificate** — Ministry of Labor and Rehabilitation
+- **VB.NET & SQL Systems Programming Certificate** — Excellent Grade
 
 ---
 
